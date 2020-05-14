@@ -17,7 +17,7 @@ func main()  {
 
 	peerIPs := ipfsx.GetPeers()
 
-	if scanType == "cos" {
+	if scanType == "cors" {
 		scanRes := scanner.CosScan(peerIPs)
 		tableRes := [][]string{}
 		for k, v := range scanRes {
