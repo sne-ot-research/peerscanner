@@ -1,7 +1,7 @@
 ### IPFS Peer Scanner
--
+
 :warning: 
-This is DegreeWare! ie. Software created in the pursuit of a university degree. So, use at your own peril :)
+**This is DegreeWare! ie. Software created in the pursuit of a university degree. So, use at your own peril :)**
 :warning:
 
 `peerscan` scans peers in an IPFS network for security (and hopefully in the future) general diagnostic information.
