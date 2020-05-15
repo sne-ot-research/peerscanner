@@ -8,7 +8,7 @@ import (
 	"time"
 )
 
-func CosScan(ips []string) map[string][][]string {
+func CorsScan(ips []string) map[string][][]string {
 	var wg sync.WaitGroup
 	resChan := make(chan map[string][][]string)
 
